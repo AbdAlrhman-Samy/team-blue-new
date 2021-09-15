@@ -1,12 +1,12 @@
 #my-header{
-    min-height: 90vh;
+    min-height: 92vh;
     background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8354692218684349) 20%, rgba(255, 255, 255, 0.4489146000196954) 100%), url('../Images/home-min.jpg');
     background-size: cover;
     background-position: center;
   }
 
 #my-nav{
-    min-height: 10vh;
+    min-height: 8vh;
     z-index: 1000;
 }
 
